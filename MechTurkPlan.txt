@@ -1,0 +1,27 @@
+List below - in the planned order you will implement them (first at the top) - your ideas for how you will make your mechanical turk behave.  Give brief reasons why you think each feature is important, and why you have chosen to implement them in this order.
+
+1.  Mr Pass - starts spinoff if has resources, otherwise passes.  Why first? This is required to be the first Turk everyone submits.
+
+2.  Obelisk the Tormentor v1.0 - Builds 2 roads to best possible locations for a campus, then builds a campuses when it has enough resources. Will trade MTV and M$ for BQN or BPS whichever the Ai is holding less of until two roads are built then will trade MTVs when MTVs > 3 for BQN or BPS or MJ which the AI is holding less of so there is 1 remaining to build a campus.
+
+3.  Obelisk the Tormentor v1.1 - Retrains students efficiently with a function to determine when to retrain to do each of the required actions.
+
+4.  Obelisk the Tormentor v1.2 - Determines the best location to build campuses and how to build the arc to the location. Avoid ThD tiles. Takes into account retraining centres and the weighting of the vertex's dice value.
+
+5.  Obelisk the Tormentor v1.3 - Builds GO8s when resources are avaliable or able to trade resources to build a GO8. Determines best location to build the GO8 to obtain resources wanted and gain maximum resources.
+
+6.  Obelisk the Tormentor v1.4 - Starts a spinoff if the AI determines it is the best move possible, i.e. when it can gain the most publications or close to the KPI goal to win the game.
+
+7.(a.k.a 6a)  Obelisk the Tormentor v1.41 - If unable to build any more campuses, the AI will constantly either build GO8s or start SPINOFFs.
+
+8.  Obelisk the Tormentor v2.0 - Determines when to build ARCs to block the opponent to build roads or campuses at certain locations and if it is able to get mostARCs to gain a victory efficently.
+
+9.  Obelisk the Tormentor v2.1 - Determines when to build campuses in other locations to block off certain tiles or locations where the enemy AI can build to hold complete monopoly on higher weighting tiles.
+…
+
+Write below the plan you and your Turk Pair partner have devised to ensure you will be an effective team:
+
+We will share the load 50/50.
+We will finish as soon as possible.
+We will succeed.
+Expect us.
